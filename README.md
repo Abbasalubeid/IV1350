@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Course Contents</title>
-  </head>
   <body>
     <h1>Course Contents</h1>
     <h2>Topics Covered:</h2>
